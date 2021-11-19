@@ -4,7 +4,9 @@ Commodore 64 Screen Draining effect, Assembly code
 
 ## ScreenDraining.asm
 
-Load "ScreenDraining.prg" file then copy/type this code:
+Load "ScreenDraining.prg" file (load "ScreenDraining",8,1)
+
+then copy/type this code:
 
 new
 
